@@ -1,0 +1,5 @@
+1) The first observation that came across from the bar plot  was that the two drugs that had the most data points were: Capomulin and Ramicne. They had a significant amount of data points compared to the other drugs. 
+
+2) The second observation that I came across was when I was looking at the box plot and I noticed that drugs Capomulin and Ramicane both showed that they had a significant impact in the size of the tumor. 
+
+3) Lastly I observed that the correlation was at 0.84 meaning there Is a positive correlation between the average tumor volume and the weight of the subject mice. This can also be seen through the scatter plot because as the mice weight increases so does the tumor volume. 
